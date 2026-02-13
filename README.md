@@ -4,5 +4,9 @@
 
 # IXGenerator
 
+[![IXGenerator](https://img.shields.io/badge/IX-Generator-blue?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)](#)
+
+A utility for generating XML files required by specific projects.
 </div>
-## A utility for generating XML files required by specific projects.
+
