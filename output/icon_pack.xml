@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <string-array name="icons_preview">
+        <item>dialer</item>
+        <item>contacts</item>
+        <item>messaging</item>
+        <item>fossify_camera</item>
+        <item>breezy_weather</item>
+        <item>fossify_gallery</item>
+        <item>calculator</item>
+        <item>pyroscape</item>
+        <item>settings</item>
+    </string-array>
+
+    <string-array name="icon_filters">
+        <item>all</item>
+    </string-array>
+
+    <!-- The following content is automatically generated, please do not modify. -->
+    <string-array name="all">
+        <item>foo</item>
+        <item>bar</item>
+        <item>foo_bar</item>
+    </string-array>
+</resources>

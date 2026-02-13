@@ -1,0 +1,4 @@
+AppName,PackageName,LauncherActivity,IconName
+Foo,com.app.foo,com.app.foo.MainActivity,foo
+Bar,com.app.bar,com.app.bar.BaseActivity,bar
+Foobar,com.foobar.app,com.foobar.app.EmplActivity,foo_bar

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <item
+        component="ComponentInfo{com.app.foo/com.app.foo.MainActivity}"
+        drawable="foo" />
+	
+    <item
+        component="ComponentInfo{com.app.bar/com.app.bar.BaseActivity}"
+        drawable="bar" />
+	
+    <item
+        component="ComponentInfo{com.foobar.app/com.foobar.app.EmplActivity}"
+        drawable="foo_bar" />
+	
+
+</resources>

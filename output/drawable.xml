@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<resources>
+    <version>1</version>
+    <category title="icons"/>
+    <item drawable="foo"/>
+    <item drawable="bar"/>
+    <item drawable="foo_bar"/>
+</resources>

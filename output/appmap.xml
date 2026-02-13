@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<appmap>
+    <item class="com.app.foo.MainActivity" name="foo"/>
+    <item class="com.app.bar.BaseActivity" name="bar"/>
+    <item class="com.foobar.app.EmplActivity" name="foo_bar"/>
+</appmap>
