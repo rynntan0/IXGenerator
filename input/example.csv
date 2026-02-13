@@ -1,4 +1,4 @@
 AppName,PackageName,LauncherActivity
 Foo,com.app.foo,com.app.foo.MainActivity
 Bar,com.app.bar,com.app.bar.BaseActivity
-Foobar,com.foobar.app,com.foobar.app.EmplActivity
+Foobar,com.foobar.app,com.foobar.app.ExmplActivity
