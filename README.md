@@ -1,7 +1,8 @@
 <div align="center">
-	<img src="./image/ic.png" width="15%">
+
+<img src="./image/ic.png" width="15%">
+
+# IXGenerator
+
 </div>
-<h1 align="center">
-	IXGenerator
-</h1>
-A utility for generating XML files required by specific projects.
+## A utility for generating XML files required by specific projects.
