@@ -1,3 +1,4 @@
+<img src="./image/ic.png" width="15%">
 <h1 align="center">
 IXGenerator
 </h1>
