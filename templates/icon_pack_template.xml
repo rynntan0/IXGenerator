@@ -2,15 +2,15 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
 
     <string-array name="icons_preview">
-        <item>dialer</item>
-        <item>contacts</item>
-        <item>messaging</item>
-        <item>fossify_camera</item>
-        <item>breezy_weather</item>
-        <item>fossify_gallery</item>
-        <item>calculator</item>
-        <item>pyroscape</item>
-        <item>settings</item>
+        <item>foo1</item>
+        <item>foo2</item>
+        <item>foo3</item>
+        <item>bar1</item>
+        <item>bar2</item>
+        <item>bar3</item>
+        <item>foobar1</item>
+        <item>foobar2</item>
+        <item>foobar3</item>
     </string-array>
 
     <string-array name="icon_filters">
